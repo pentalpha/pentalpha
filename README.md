@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Pitágoras Alves GitHub Stats](https://github-readme-stats.vercel.app/api?username=pentalpha&show_icons=true&theme=dracula)
 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pentalpha&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pentalpha&layout=compact&langs_count=7&theme=dracula&hide=javascript,html,jupyter%20notebook"/>
