@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋 | Bom dia! | ¡Hola!	
 
 <!--
 **pentalpha/pentalpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Github Statistics
 ![Pitágoras Alves GitHub Stats](https://github-readme-stats.vercel.app/api?username=pentalpha&show_icons=true&theme=dracula)
 
+### Most Used Languages
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pentalpha&layout=compact&langs_count=7&theme=dracula&hide=javascript,html,jupyter%20notebook"/>
+
+### Other Skills
+[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,docker,anaconda,rust,django,fastapi,latex,linux&perline=10)](https://skillicons.dev)
